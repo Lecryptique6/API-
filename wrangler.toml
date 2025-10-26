@@ -1,0 +1,11 @@
+name = "api-"
+main = "index.js"
+compatibility_date = "2025-01-15"
+
+# Variables d'environnement (optionnel)
+[vars]
+# ENVIRONMENT = "production"
+
+# Limites de ressources
+[limits]
+cpu_ms = 50
